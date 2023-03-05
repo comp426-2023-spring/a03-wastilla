@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a03-wastilla/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a03-wastilla#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a03-wastilla#readme",
+  "directories": {
+    "lib": "lib",
+    "minimist": "^1.2.8"
+  }
 }
