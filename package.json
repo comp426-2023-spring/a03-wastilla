@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a03-wastilla#readme",
   "directories": {
-    "lib": "lib",
+    "lib": "lib"
+  },
+  "dependencies": {
     "minimist": "^1.2.8"
   }
 }
